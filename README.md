@@ -4,7 +4,7 @@ Bienvenue sur le projet **La Chouette Agence**, une agence de communication spé
 
 ## 🌐 À propos de Nous
 
-**La Chouette Agence** est votre partenaire idéal pour la création d'un site internet qui reflète votre professionnalisme et votre vision. Notre équipe de web designers et de graphistes est prête à transformer vos idées en réalité et à vous aider à atteindre vos objectifs en ligne.
+**La Chouette Agence** est votre partenaire idéal pour la création d'un site internet qui reflète votre professionnalisme et votre vision. Notre équipe de web designers et de graphistes est prête à transformer vos idées en réalité et à vous aider à atteindre vos objectifs en ligne, projet Openclassroom.
 
 ## 🎨 Nos Services
 
