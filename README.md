@@ -24,12 +24,5 @@ Nos graphistes expérimentés ajoutent une touche d'élégance à vos pages. L'i
 
 ## 🚀 Démo
 
-Découvrez notre travail et les projets que nous avons réalisés ici : [La Chouette Agence Demo](URL_DE_LA_DEMO).
+Découvrez notre travail et les projets que j'ai réalisé ici : https://mahmoud974.github.io/la_chouette_agence/.
 
-## 📥 Installation
-
-Pour cloner et exécuter ce projet localement, suivez ces étapes :
-
-1. Clonez le dépôt :
-   ```bash
-   git clone https://github.com/votre_nom_utilisateur/la-chouette-agence.git
